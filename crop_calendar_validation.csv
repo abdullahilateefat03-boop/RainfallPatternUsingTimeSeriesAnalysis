@@ -1,0 +1,3 @@
+Year,True Onset,SARIMA Onset,RF Onset,LSTM Onset,True Cessation,SARIMA Cessation,RF Cessation,LSTM Cessation
+2024,Apr 01,Apr 01,Apr 01,Apr 01,Nov 01,Nov 01,Nov 01,Nov 11
+2025,Apr 01,Apr 01,Apr 01,Apr 01,Nov 11,Nov 01,Nov 01,Nov 11

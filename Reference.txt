@@ -1,0 +1,86 @@
+Ejike, Ogochukwu, David Ndzi, and Muhammad Zeeshan Shakir. "Comparative study of machine learning-based rainfall prediction in tropical and temperate climates." Climate 13.8 (2025): 167.https://doi.org/10.3390/cli13080167
+
+Samson, T. K. & Aweda, F. O. (2024). Forecasting Rainfall in Selected Cities of Southwest Nigeria: A Comparative Study of Random Forest and Long Short-Term Memory Models. Acadlore Trans. Geosci., 3(2), 79-88. https://doi.org/10.56578/atg030202
+
+Chukwueloka, E.H., Nwosu, A.O. (2023). Modelling and Prediction of Rainfall in the North-Central Region of Nigeria Using ARIMA and NNETAR Model. In: Egbueri, J.C., Ighalo, J.O., Pande, C.B. (eds) Climate Change Impacts on Nigeria. Springer Climate. Springer, Cham. https://doi.org/10.1007/978-3-031-21007-5_6
+
+Olusola Samuel Ojo, Samuel Toluwalope Ogunjo,
+Machine learning models for prediction of rainfall over Nigeria,
+Scientific African,
+Volume 16,
+2022,
+e01246,
+ISSN 2468-2276,
+https://doi.org/10.1016/j.sciaf.2022.e01246.
+(https://www.sciencedirect.com/science/article/pii/S2468227622001533)
+Abstract: Investigating climatology and predicting rainfall amounts are crucial for planning and mitigating the risks caused by variable rainfall. This study utilized two multivariate polynomial regressions (MPR) and twelve machine learning algorithms, namely three artificial neural networks (ANN), four adaptive neuro-fuzzy inference system (ANFIS) and five support vector machine (SVM) algorithms, to estimate monthly and annual rainfalls in a tropical location. The ground measured rainfall data were collected from the Nigerian Meteorological Agency (NIMET), Lagos spanning 31 years (1983–2013) spatially distributed across Nigeria. The proposed models employed geoclimatic coordinates such as longitude, latitude, and altitude as input variables. Analyses based on general performance index (c) showed that the adaptive neuro-fuzzy inference system (ANFIS) model’s algorithms outscored the MPR, ANN and SVM models in the ten months of the year. Its the generalized bell-shaped algorithm (ANFIS-GBELL) performed best for January, April, May, July, October and annual rainfalls, the Gaussian algorithm (ANFIS-GAUSS) for November and December, the subtractive clustered algorithms (ANFIS-SC) for August and September rainfalls, and fuzzy c-means algorithms (ANFIS-FCM) for June rainfall. Also, the multivariate polynomial regression of second order (MPR-2) model performed best for February and March rainfalls. These models’ algorithms have general performance index ranging from 0.906 to 0.996 and they are thereby proposed for the estimation of rainfall amounts over Nigeria.
+Keywords: Statistical model; Machine learning; Tropical rainfall; Rainfall modelling
+
+Mamman, M. B. A. Predicting 2023 Seasonal Rainfall in Nigeria Using the Next-Gen Python-Based Climate Predictability Tool (PyCPT) for Decision-Making.
+
+Nath, P., Saha, P., Middya, A.I. et al. Long-term time-series pollution forecast using statistical and deep learning methods. Neural Comput & Applic 33, 12551–12570 (2021). https://doi.org/10.1007/s00521-021-05901-2
+
+
+Ibrahim, A., & Musa, A. O. (2023). On the performance of SARIMA and SARIMAX model in forecasting monthly average rainfall in Kogi state, Nigeria. Fudma Journal of Sciences, 7(6), 24-31. https://doi.org/10.33003/fjs-2023-0706-2095
+
+Pinheiro, E., Ouarda, T.B.M.J. An interpretable machine learning model for seasonal precipitation forecasting. Commun Earth Environ 6, 222 (2025). https://doi.org/10.1038/s43247-025-02207-2
+
+Victor C., Chukwunenye and Confidence I., Nwokedi and Frederick A., Omoruyi and Chukwuenyem E., Onyenekwe (2024) Forecasting the Rainfall of Anambra State using Timeseries Model. International Journal of Trend in Scientific Research and Development, 8 (1). pp. 1056-1060. ISSN 2456-6470 https://www.ijtsrd.com/mathemetics/statistics/64560/forecasting-the-rainfall-of-anambra-state-using-timeseries-model/victor-c-chukwunenye
+
+OGUNDEJI, R., & Okemakinde, S. S. (2025). Bayesian Structural Time Series Model and SARIMA Model for Rainfall Forecasting in Nigeria. Journal of Statistical Modeling and Analytics (JOSMA), 7(1). https://doi.org/10.22452/josma.vol7no1.5
+
+Swain, S., Nandi, S., Patel, P. (2018). Development of an ARIMA Model for Monthly Rainfall Forecasting over Khordha District, Odisha, India. In: Sa, P., Bakshi, S., Hatzilygeroudis, I., Sahoo, M. (eds) Recent Findings in Intelligent Computing Techniques . Advances in Intelligent Systems and Computing, vol 708. Springer, Singapore. https://doi.org/10.1007/978-981-10-8636-6_34
+
+Dharani, C., Maragatham, N., Geethalakshmi, V., Ramanathan, S. P., & Kannan, B. (2022). Rainfall variability analysis and trend assessment in Theni District of Tamil Nadu, India: An implication for crop planning. Journal of agrometeorology, 24(3), 305-308. https://doi.org/10.54386/jam.v24i3.1797
+
+Fatemeh Rezaei Aderyani, S. Jamshid Mousavi, Fatemeh Jafari,
+Short-term rainfall forecasting using machine learning-based approaches of PSO-SVR, LSTM and CNN,
+Journal of Hydrology,
+Volume 614, Part A,
+2022,
+128463,
+ISSN 0022-1694,
+https://doi.org/10.1016/j.jhydrol.2022.128463.
+(https://www.sciencedirect.com/science/article/pii/S0022169422010332)
+Abstract: Short-term rainfall forecasting plays an important role in hydrologic modeling and water resource management problems such as flood warning and real time control of urban drainage systems. This paper compares the performances of three machine and deep learning-based rainfall forecasting approaches including a hybrid optimized-by-PSO support vector regression (PSO-SVR), long-short term memory (LSTM), and convolutional neural network (CNN). The approaches are used to develop both 5-minute and 15–minute ahead forecast models of rainfall depth based on datasets of Niavaran station, Tehran, Iran. Results of applying the models to all data points indicated that PSO-SVR and LSTM approaches performed almost the same and better than CNN. Subsequently, rainfall events were divided into four classes depending on their severity and duration using K-nearest neighbor method, and a separate forecast model was built for each of the classes. Classification of the events improved the forecast models accuracy where PSO-SVR and LSTM were the best approaches for the 15-minute and 5-minute ahead rainfall forecast models, respectively. Investigating the impact of more predictors on the forecast quality, adding differences of rainfall depths to model predictors improved the accuracy of PSO-SVR approach for the 5-minute ahead forecast model up to 13%. Furthermore, depending on the rainfall event, additional input variables considering rainfall depth fluctuations over shorter time periods than the forecast lead time increased the performances of the PSO-SVR and LSTM approaches between 3–15% and 2–10%, respectively.
+Keywords: Rainfall forecasting; Machine learning; Deep learning; Particle swarm optimization
+
+Ari Yair Barrera-Animas, Lukumon O. Oyedele, Muhammad Bilal, Taofeek Dolapo Akinosho, Juan Manuel Davila Delgado, Lukman Adewale Akanbi,
+Rainfall prediction: A comparative analysis of modern machine learning algorithms for time-series forecasting,
+Machine Learning with Applications,
+Volume 7,
+2022,
+100204,
+ISSN 2666-8270,
+https://doi.org/10.1016/j.mlwa.2021.100204.
+(https://www.sciencedirect.com/science/article/pii/S266682702100102X)
+Abstract: Rainfall forecasting has gained utmost research relevance in recent times due to its complexities and persistent applications such as flood forecasting and monitoring of pollutant concentration levels, among others. Existing models use complex statistical models that are often too costly, both computationally and budgetary, or are not applied to downstream applications. Therefore, approaches that use Machine Learning algorithms in conjunction with time-series data are being explored as an alternative to overcome these drawbacks. To this end, this study presents a comparative analysis using simplified rainfall estimation models based on conventional Machine Learning algorithms and Deep Learning architectures that are efficient for these downstream applications. Models based on LSTM, Stacked-LSTM, Bidirectional-LSTM Networks, XGBoost, and an ensemble of Gradient Boosting Regressor, Linear Support Vector Regression, and an Extra-trees Regressor were compared in the task of forecasting hourly rainfall volumes using time-series data. Climate data from 2000 to 2020 from five major cities in the United Kingdom were used. The evaluation metrics of Loss, Root Mean Squared Error, Mean Absolute Error, and Root Mean Squared Logarithmic Error were used to evaluate the models’ performance. Results show that a Bidirectional-LSTM Network can be used as a rainfall forecast model with comparable performance to Stacked-LSTM Networks. Among all the models tested, the Stacked-LSTM Network with two hidden layers and the Bidirectional-LSTM Network performed best. This suggests that models based on LSTM-Networks with fewer hidden layers perform better for this approach; denoting its ability to be applied as an approach for budget-wise rainfall forecast applications.
+Keywords: Rainfall prediction; LSTM Networks; Multivariate time-series; Multi-step forecast; Time-series data
+
+Unnikrishnan, P., Jothiprakash, V. Hybrid SSA-ARIMA-ANN Model for Forecasting Daily Rainfall. Water Resour Manage 34, 3609–3623 (2020). https://doi.org/10.1007/s11269-020-02638-w
+
+Oluwatimilehin, I.A. et al. (2026). Climate Complexity in Western Nigeria: Performance of ARIMA and SARIMA Models for Rainfall Analyses. In: Ayanlade, A., Nyasimi, M., Boyd, E. (eds) Extreme Climate Events, Loss and Damage in Africa. Springer, Cham. https://doi.org/10.1007/978-3-032-11678-9_4
+
+Danbatta, S.J., Muhammad, A., Varol, A. et al. Forecasting monthly rainfall using hybrid time-series models and Monte Carlo simulation amidst security challenges: a case study of five districts from northern Nigeria. Environ Dev Sustain 27, 13815–13837 (2025). https://doi.org/10.1007/s10668-024-04516-6
+
+Mayaki James, S. I. M., & Deborah, B. (2023). Time Series Modelling and Forecasting of Seasonal Rainfall Patterns in Bida Basin, Nigeria. http://irepo.futminna.edu.ng:8080/jspui/handle/123456789/28051
+
+Talebi, L., & Guo, L. (2024, June). Strategic Forecasting for Electric Vehicle Sales and Battery Returns: Integrating Statistical Methods and Monte Carlo Simulation. In 9th North American Conference on Industrial Engineering and Operations Management, https://doi.org/10.46254/NA09.20240265.
+
+Iliyasu, U., Obunadike, G. N., & Jiya, E. A. (2023). Rainfall Prediction Models for Katsina State, Nigeria: Machine Learning Approach. International Journal of Science for Global Sustainability (IJSGS), 9(2). doi. 10.57233/ijsgs.v9i2.473
+
+Agina, E. C., George, U. D., & Usip, P. U. (2024). A Conceptual Machine Learning Approach for Rainfall Pattern Prediction in Umuahia Metropolis. International Journal of Scientific Research in Science, Engineering and Technology, 11(6), 249-265. https://doi.org/10.32628/IJSRSET2411444
+
+A. Mokhtar et al., "Estimation of SPEI Meteorological Drought Using Machine Learning Algorithms," in IEEE Access, vol. 9, pp. 65503-65523, 2021, doi: 10.1109/ACCESS.2021.3074305.
+keywords: {Predictive models;Biological system modeling;Indexes;Water resources;Mathematical model;Meteorology;Computational modeling;Drought events;SPEI;machine learning;Extreme Gradient Boost;Tibetan Plateau},
+
+Balogun, G. B., Kudabo, D. T., Peter, O. J., & Akintola, A. G. (2025). Leveraging machine learning for rainfall prediction in North-Central Nigeria: Comparative algorithm study. Journal of Science and Technology, 30(4). https://doi.org/10.20428/jst.v30i4.2771
+
+Ikpang, I. N., Okon, E. O. J., & George, E. U. (2022). Modeling average rainfall in Nigeria with artificial neural network (ANN) models and seasonal autoregressive integrated moving average (SARIMA) models. International Journal of Statistics and Probability, 11(4), 53-62. https://doi.org/10.5539/ijsp.v11n4p53
+
+B. C. Y. Bandara, T. V. Mahanama, D. Asanka and C. Rajapakse, "A Systematic Literature Review of Machine Learning Applications and Climate Adaptation Strategies in Sri Lankan Paddy Cultivation," 2025 IEEE 19th International Conference on Industrial and Information Systems (ICIIS), Peradeniya, Sri Lanka, 2026, pp. 563-568, doi: 10.1109/ICIIS69028.2026.11450905. keywords: {Weather;Location awareness;Decision support systems;Weather forecasting;Machine learning;Real-time systems;Multilingual;Resilience;Farming;Systematic literature review;Agricultural Technology;Climate Adaptation;Decision Support Systems;Machine Learning;Paddy Cultivation},
+
+Ozyegen, O., Ilic, I. & Cevik, M. Evaluation of interpretability methods for multivariate time series forecasting. Appl Intell 52, 4727–4743 (2022). https://doi.org/10.1007/s10489-021-02662-2
+
+Adamgbe, E. M., & Ujoh, F. (2013). Effect of variability in rainfall characteristics on maize yield in Gboko, Nigeria. Journal of Environmental Protection, 4(9), 881.
+http://dx.doi.org/10.4236/jep.2013.49103
